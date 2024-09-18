@@ -8,7 +8,7 @@ export const DATA = {
   location: "Shantikunj Haridwar, India",
   locationLink: "https://maps.app.goo.gl/zSag81LNXStMs3eKA",
   description:
-    "Software Developer with 5+ years of experience in designing and delivering full-stack solutions, specializing in MERN stack and agile methodologies. Proven track record of enhancing performance, optimizing user experience, and working with cross-functional teams to successful project delivery.",
+    "Software Developer with 5+ years of experience in designing and delivering full-stack solutions.",
   summary:
     "With 5 years of experience, I am a Full Stack Developer specializing in MERN stack and agile methodologies. My recent work includes developing a cargo booking application and optimizing websites for better performance. I am passionate about problem-solving and eager to leverage my skills in new and challenging environments.",
   avatarUrl: "/me.jpg",
@@ -166,7 +166,6 @@ export const DATA = {
         "Express.js",
         "JavaScript",
         "CSS",
-        "HTML",
       ],
       links: [
         {
@@ -188,8 +187,11 @@ export const DATA = {
       technologies: [
         "Next.js",
         "TypeScript",
+        "PostgreSQL",
         "TailwindCSS",
-        "JavaScript",
+        "Docker",
+        "AWS",
+      ],
       links: [
         {
           type: "Website",
@@ -238,7 +240,7 @@ export const DATA = {
         "TailwindCSS",
         "JavaScript",
         "CSS",
-      
+        "WordPress",
       ],
       links: [
         {
@@ -259,13 +261,10 @@ export const DATA = {
         "Led the complete revamp of the main IIT Mandi website. Developed web applications to support academics, research, and seminars, enhancing functionality and user engagement. Additionally, created and managed websites for various schools and deaneries, contributing to a seamless online experience for over 5,000 users.",
       technologies: [
         "PHP",
-        "HTML",
-        "CSS",
-        "JavaScript",
         "React.js",
-        "Node.js",
-        "MongoDB",
-        "Bootstrap",
+        "TailwindCSS",
+        "JavaScript",
+        "CSS",
         "WordPress",
         "Drupal",
       ],
@@ -291,8 +290,7 @@ export const DATA = {
         "JavaScript",
         "HTML",
         "CSS",
-        "PHP",
-        "MySQL",
+        "React.js",
       ],
       links: [
         {
@@ -315,8 +313,7 @@ export const DATA = {
         "JavaScript",
         "HTML",
         "CSS",
-        "PHP",
-        "MySQL",
+        "React.js",
       ],
       links: [
         {
