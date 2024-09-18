@@ -8,10 +8,10 @@ export const DATA = {
   location: "Shantikunj Haridwar, India",
   locationLink: "https://maps.app.goo.gl/zSag81LNXStMs3eKA",
   description:
-    "Results-driven Software Developer with 5+ years of experience in designing and delivering full-stack solutions, specializing in MERN stack and agile methodologies. Proven track record of enhancing performance, optimizing user experience, and working with cross-functional teams to successful project delivery.",
+    "Software Developer with 5+ years of experience in designing and delivering full-stack solutions, specializing in MERN stack and agile methodologies. Proven track record of enhancing performance, optimizing user experience, and working with cross-functional teams to successful project delivery.",
   summary:
     "With 5 years of experience, I am a Full Stack Developer specializing in MERN stack and agile methodologies. My recent work includes developing a cargo booking application and optimizing websites for better performance. I am passionate about problem-solving and eager to leverage my skills in new and challenging environments.",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpg",
   skills: [
     "HTML",
     "CSS",
@@ -177,53 +177,6 @@ export const DATA = {
       image: "", // Add project image URL if available
       video: "", // Add project video URL if available
     },
-  
-    {
-      title: "DORA Website Revitalization",
-      href: "https://dora-iitr.vercel.app/", // Update with actual project URL if available
-      dates: "Jul 2021 - Aug 2021",
-      active: true,
-      description:
-        "Revitalized the DORA website at IIT Roorkee, resulting in a 30% increase in user interaction and a 40% boost in site traffic. Developed alumni engagement features leading to increased contributions and participation.",
-      technologies: [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "React.js",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "hhttps://dora-iitr.vercel.app/", // Update with actual project URL if available
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "", // Add project image URL if available
-      video: "", // Add project video URL if available
-    },
-    {
-      title: "Uttarakhand Knowledge Bank App",
-      href: "#", // Update with actual project URL if available
-      dates: "Jun 2017 - Jul 2017",
-      active: true,
-      description:
-        "Contributed to the development of the Uttarakhand Knowledge Bank app during an internship at USERC, enhancing educational resource accessibility for students. Developed and deployed the Himalayan Medicinal Plant Portal, increasing user engagement with medicinal plant data.",
-      technologies: [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "React.js",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "#", // Update with actual project URL if available
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "", // Add project image URL if available
-      video: "", // Add project video URL if available
-    },
     {
       title: "Xtractify",
       href: "https://xtractify.vercel.app/", // Update with actual project URL if available
@@ -299,6 +252,80 @@ export const DATA = {
       image: "", // Add project image URL if available
       video: "", // Add project video URL if available
     },
+    {
+      title: "IIT Mandi Website Revamp",
+      href: "https://www.iitmandi.ac.in/", // Update with actual project URL if available
+      dates: "Feb 2022 - Sep 2023",
+      active: true,
+      description:
+        "•	Led the development of responsive web applications for academic projects, improving accessibility for over 5,000 users across various research initiatives.Managed the maintenance and optimization of 13+ websites, leading to a 25% improvement in site performance and a significant increase in user engagement.",
+      technologies: [
+        "PHP",
+        "React.js",
+        "TailwindCSS",
+        "JavaScript",
+        "CSS",
+        "WordPress",
+        "Drupal",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.iitmandi.ac.in/", // Update with actual project URL if available
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "", // Add project image URL if available
+      video: "", // Add project video URL if available
+    },
+  
+    {
+      title: "DORA Website Revamp",
+      href: "https://dora-iitr.vercel.app/", // Update with actual project URL if available
+      dates: "Jul 2021 - Aug 2021",
+      active: true,
+      description:
+        "Revitalized the DORA website at IIT Roorkee, resulting in a 30% increase in user interaction and a 40% boost in site traffic. Developed alumni engagement features leading to increased contributions and participation.",
+      technologies: [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React.js",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dora-iitr.vercel.app/", // Update with actual project URL if available
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "", // Add project image URL if available
+      video: "", // Add project video URL if available
+    },
+    {
+      title: "Uttarakhand Knowledge Bank App",
+      href: "#", // Update with actual project URL if available
+      dates: "Jun 2017 - Jul 2017",
+      active: true,
+      description:
+        "Contributed to the development of the Uttarakhand Knowledge Bank app during an internship at USERC, enhancing educational resource accessibility for students. Developed and deployed the Himalayan Medicinal Plant Portal, increasing user engagement with medicinal plant data.",
+      technologies: [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "React.js",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "#", // Update with actual project URL if available
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "", // Add project image URL if available
+      video: "", // Add project video URL if available
+    },
+    
   ],
   
 
