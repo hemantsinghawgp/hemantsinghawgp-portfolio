@@ -166,6 +166,7 @@ export const DATA = {
         "Express.js",
         "JavaScript",
         "CSS",
+        "HTML",
       ],
       links: [
         {
@@ -187,11 +188,8 @@ export const DATA = {
       technologies: [
         "Next.js",
         "TypeScript",
-        "PostgreSQL",
         "TailwindCSS",
-        "Docker",
-        "AWS",
-      ],
+        "JavaScript",
       links: [
         {
           type: "Website",
@@ -240,7 +238,7 @@ export const DATA = {
         "TailwindCSS",
         "JavaScript",
         "CSS",
-        "WordPress",
+      
       ],
       links: [
         {
@@ -258,13 +256,16 @@ export const DATA = {
       dates: "Feb 2022 - Sep 2023",
       active: true,
       description:
-        "•	Led the development of responsive web applications for academic projects, improving accessibility for over 5,000 users across various research initiatives.Managed the maintenance and optimization of 13+ websites, leading to a 25% improvement in site performance and a significant increase in user engagement.",
+        "Led the complete revamp of the main IIT Mandi website. Developed web applications to support academics, research, and seminars, enhancing functionality and user engagement. Additionally, created and managed websites for various schools and deaneries, contributing to a seamless online experience for over 5,000 users.",
       technologies: [
         "PHP",
-        "React.js",
-        "TailwindCSS",
-        "JavaScript",
+        "HTML",
         "CSS",
+        "JavaScript",
+        "React.js",
+        "Node.js",
+        "MongoDB",
+        "Bootstrap",
         "WordPress",
         "Drupal",
       ],
@@ -290,7 +291,8 @@ export const DATA = {
         "JavaScript",
         "HTML",
         "CSS",
-        "React.js",
+        "PHP",
+        "MySQL",
       ],
       links: [
         {
@@ -313,7 +315,8 @@ export const DATA = {
         "JavaScript",
         "HTML",
         "CSS",
-        "React.js",
+        "PHP",
+        "MySQL",
       ],
       links: [
         {
