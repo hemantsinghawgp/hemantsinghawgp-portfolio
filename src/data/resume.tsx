@@ -8,9 +8,9 @@ export const DATA = {
   location: "Shantikunj Haridwar, India",
   locationLink: "https://maps.app.goo.gl/zSag81LNXStMs3eKA",
   description:
-    "Software Developer with 5+ years of experience in designing and delivering full-stack solutions.",
+    "Software Developer with 5+ years of experience in designing and developing scalable, responsive web applications.",
   summary:
-    "With 5 years of experience, I am a Full Stack Developer specializing in MERN stack and agile methodologies. My recent work includes developing a cargo booking application and optimizing websites for better performance. I am passionate about problem-solving and eager to leverage my skills in new and challenging environments.",
+    "With 5 years of experience, I am a Software Developer(Front-end Heavy) specializing in MERN stack and agile methodologies. My recent work includes developing a cargo booking application and optimizing websites for better performance. I am passionate about problem-solving and eager to leverage my skills in new and challenging environments.",
   avatarUrl: "/me.jpg",
   skills: [
     "HTML",
@@ -78,7 +78,7 @@ export const DATA = {
       title: "Full Stack Developer",
       logoUrl: "https://skylinktravels.net/wp-content/uploads/2023/10/skylink-logo.gif", // Update with actual logo URL if available
       start: "May 2024",
-      end: "June 2024",
+      end: "July 2024",
       description:
         "Developed a full-stack cargo booking application using the MERN stack, integrating fare management and user quotations, which improved booking efficiency and increased customer satisfaction by 15%. Collaborated with cross-functional teams to deliver the project within 8 weeks, consistently meeting client deadlines and requirements.",
     },
