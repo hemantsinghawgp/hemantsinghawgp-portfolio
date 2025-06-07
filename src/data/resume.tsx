@@ -71,6 +71,18 @@ export const DATA = {
 
   work: [ 
     {
+      company: "Dev Sanskriti Vishwavidhyalaya",
+      href: "https://www.dsvv.ac.in/", // Update with actual company URL if available
+      badges: [],
+      location: "Onsite",
+      title: "Teaching Associate",
+      logoUrl: "https://www.dsvv.ac.in//wp-content/uploads/2022/01/Logo2.jpg", // Update with actual logo URL if available
+      start: "March 2025",
+      end: "Present",
+      description:
+        "As a Teaching Associate at DSVV, I create practical, real-world learning experiences that integrate modern computer science with spiritual values, empowering students to become skilled and responsible tech professionals.",
+    },
+    {
       company: "Skylink Travels LLC",
       href: "https://skylinktravels.net/", // Update with actual company URL if available
       badges: [],
