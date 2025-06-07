@@ -78,7 +78,7 @@ export const DATA = {
       title: "Full Stack Developer",
       logoUrl: "https://skylinktravels.net/wp-content/uploads/2023/10/skylink-logo.gif", // Update with actual logo URL if available
       start: "May 2024",
-      end: "July 2024",
+      end: "Present",
       description:
         "Developed a full-stack cargo booking application using the MERN stack, integrating fare management and user quotations, which improved booking efficiency and increased customer satisfaction by 15%. Collaborated with cross-functional teams to deliver the project within 8 weeks, consistently meeting client deadlines and requirements.",
     },
@@ -170,7 +170,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://example.com", // Update with actual project URL if available
+          href: "#", // Update with actual project URL if available
           icon: <Icons.globe className="size-3" />,
         },
       ],
